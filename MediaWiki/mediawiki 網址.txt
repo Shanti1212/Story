@@ -1,1 +1,1 @@
-http172.104.84.216mediawikiindex.php%E9%A6%96%E9%A0%81
+http://172.104.84.216/mediawiki/index.php/%E9%A6%96%E9%A0%81
